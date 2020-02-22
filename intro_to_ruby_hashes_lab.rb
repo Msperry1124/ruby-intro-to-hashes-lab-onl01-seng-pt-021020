@@ -1,5 +1,5 @@
 def new_hash
-new_hash = {:name => "Dwayne The Rock Johnson"}
+test_hash = Hash.new
 end
 
 def actor
